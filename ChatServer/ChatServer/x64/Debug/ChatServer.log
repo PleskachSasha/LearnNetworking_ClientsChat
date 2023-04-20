@@ -1,0 +1,4 @@
+﻿  ChatServer.cpp
+D:\Programming\Project\WindowsChat\ChatServer\ChatServer\ChatServer.cpp(86,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Programming\Project\WindowsChat\ChatServer\ChatServer\ChatServer.cpp(94,79): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+  ChatServer.vcxproj -> D:\Programming\Project\WindowsChat\ChatServer\x64\Debug\ChatServer.exe
